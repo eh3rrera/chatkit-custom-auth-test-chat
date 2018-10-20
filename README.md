@@ -1,6 +1,6 @@
 # Chatkit Test Chat for Custom Authorization Server
 
-Chat build with React and [Chatkit](https://pusher.com/chatkit) to test a custom authorization server. Follow the tutorial [here](#).
+Chat build with React and [Chatkit](https://pusher.com/chatkit) to test a custom authorization server. Follow the tutorial [here](https://pusher.com/tutorials/java-authentication-server-chatkit).
 
 ## Getting Started
 
